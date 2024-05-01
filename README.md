@@ -31,4 +31,5 @@ pyMain.py begins with retrieving the top 5 CWEs for a CAPEC and retrieving their
 
 ## Extras
 top5.py - matches each CAPEC with top 5 matching CWEs
+findCAPECExams.py and getCWEExams.py - takes the examples of the CAPEC and CWE Websites and formats them in an excel file
 
